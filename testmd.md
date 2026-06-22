@@ -1,5 +1,5 @@
 <section>
-    <h1>Testing HTML</h1>
+    <h1>Testing MD</h1>
     <p> This basic site is a test to get started on making a website</p>
 </section>
 
