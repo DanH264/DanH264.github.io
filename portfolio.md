@@ -7,4 +7,7 @@
   </ul>
 </section>
 
-<a href="https://danh264.github.io">Home Page</a>
+<section>
+    <h3> Back to Home </h3>
+    <a href="https://danh264.github.io">Home Page</a>
+</section>
