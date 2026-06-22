@@ -1,7 +1,8 @@
-layout: page
-title: "Digital Portfolio"
-permalink: /portfolio
+# Digital Portfolio
 
-<!DOCTYPE html>
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
 
-test
+<a href="https://danh264.github.io">Home Page</a>
