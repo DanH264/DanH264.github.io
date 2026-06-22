@@ -1,17 +1,11 @@
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Testing basic HTML</title>
-</head>
+<h1>Testing HTML</h1>
 
-<body>
-    <h1>Testing HTML</h1>
-
-    <p> This basic site is a test to get started on making a website</p>
+<p> This basic site is a test to get started on making a website</p>
     
-    <h2>Creating a link</h2>
-    <p>By using &lt;a&gt; we can attatch links to text and other elements nested inside of the anchor.
-    <a href="https://monkeytype.com" target="_blank"> Link to monkeytype </a>
+<h2>Creating a link</h2>
+<p>By using &lt;a&gt; we can attatch links to text and other elements nested inside of the anchor.
+<a href="https://monkeytype.com" target="_blank"> Link to monkeytype </a>
 
+<a href="https://danh264.github.io">Home Page</a>
 
